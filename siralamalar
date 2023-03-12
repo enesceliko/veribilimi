@@ -1,0 +1,6 @@
+veri biliminde sıralamalar.
+
+veri biliminde ordinal, kardinal ve nominal sıralama vardır:
+ordinal: sayısal olarak sıralama olarak düşünülebilir. Pozisyonu belirtir. 1. çiçek, 5. araba vs
+kardinal: esas soru "kaç tane?" dir. 5 köpek, 9 parmak vs.
+nominal: aracın 86 numarası, 18473 posta kodu gibi sadece o karaktere has bir veridir. 
